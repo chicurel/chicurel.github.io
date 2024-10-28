@@ -29,27 +29,27 @@ bio: My research interests include public opinion, party competition, EU politic
 
 # Interests to show in About widget
 interests:
-  - Public Opinion
-  - Party Competition
-  - EU Politicisation
-  - Migration
-  - Survey Analysis
+  - Portugal
+  - Politics
+  - 
+  - 
+  - 
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Political and Social Science
       institution: European University Institute
-      year: 2023
-    - course: PGDip in Data Analysis in Social Sciences
-      institution: ISCTE-IUL
-      year: 2018
-    - course: MSc in Political Science
-      institution: ISCTE-IUL
-      year: 2016
-    - course: BSc in Political Science and International Relations
-      institution: NOVA FCSH
-      year: 2014
+      year: 2013
+    - course: Visiting Graduate Student
+      institution: University of California, San Diego 
+      year: 2012
+    - course: MPhil in Comparative Politics
+      institution: Institute of Social Sciences, University of Lisbon
+      year: 2009
+    - course: BA in International Relations
+      institution: University of Minho, Portugal
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -59,27 +59,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: x
     icon_pack: fab
-    link: https://twitter.com/M_CarmoDuarte
-    label: Follow me on Twitter
+    link: https://x.com/JMFernandes86
+    label: Follow me on X
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=s-IoZY4AAAAJ&hl=pt-BR
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Mariana-Carmo-Duarte
-  - icon: researcherid
-    icon_pack: ai
-    link: https://www.webofscience.com/wos/author/record/ABI-2376-2020
-  - icon: scopus
-    icon_pack: ai
-    link: https://www.scopus.com/authid/detail.uri?authorId=57197809946
+    link: https://scholar.google.com/citations?hl=pt-BR&user=EY0nnJcAAAAJ
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0003-2213-2920
+    link: https://orcid.org/0000-0002-2550-1640
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
