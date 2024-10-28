@@ -6,8 +6,8 @@ title: 'The impact of candidate selection rules and electoral vulnerability on l
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Jorge M. Fernandes
-  - LUCAS GEESE
-  - CARSTEN SCHWEMMER
+  - Lucas Geese
+  - Carsten Schwemmer
 
 date: '2018-04-27T00:00:00Z'
 doi: ''

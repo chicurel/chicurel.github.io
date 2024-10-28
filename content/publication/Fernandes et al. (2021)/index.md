@@ -6,7 +6,7 @@ title: 'Unpacking the politics of legislative debates'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Jorge M. Fernandes
-  - HANNA BÄCK MARC DEBUS
+  - Hanna Bäck Marc Debus
 
 date: '2021-04-23T00:00:00Z'
 doi: ''
