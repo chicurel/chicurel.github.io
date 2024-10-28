@@ -88,10 +88,8 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a Postdoctoral researcher at [ICS - University of Lisbon](https://www.ics.ulisboa.pt). I am currently working on the project [LoREP - Losers of Representation](https://www.ics.ulisboa.pt/en/projeto/losers-representation). I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/home) in September 2023.
+Welcome to my website! I am a Ramón y Cajal Research Fellow at the [Institute of Public Goods and Policies at CSIC, Madrid.](https://ipp.csic.es/es)These days, I spend most of my time researching on comparative political institutions, with a particular emphasis on legislatures, political parties, legislative debates, and coalitions. 
 
-My research interests lie in the field of comparative politics, namely in public opinion and party competition. I use advanced quantitative methods and experimental designs to explore the consequences of party politicisation of the European Union and immigration on the dynamics of public opinion formation. Besides that, my research interests also include political institutions, electoral systems, and political representation. 
+I hold a PhD in Political and Social Sciences from the  [European University Institute](https://www.eui.eu/en/home). You can find my full CV here.
 
-If you are interested in knowing more about my research, please feel free to contact me at mariana.carmoduarte@ics.ulisboa.pt.
-
-Thank you for your visit!
+Feel free to email me at: jorge.fernandes@csic.es

@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Mariana Carmo Duarte'
+    notice: '© {year} Jorge M. Fernandes'
     license:
       enable: false
       allow_derivatives: false
