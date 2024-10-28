@@ -11,6 +11,9 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      button:
+        text: Download CV
+        url: uploads/cv.pdf
   - block: collection
     id: publications
     content:
@@ -91,15 +94,15 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: mariana.carmoduarte@ics.ulisboa.pt
+      email: jorge.fernandes@csic.es
       address:
-        street: Av. Professor Aníbal de Bettencourt 9
-        city: Lisbon
+        street: Calle de Albasanz, 26
+        city: Madrid
         region: 
-        postcode: 1600-189
-        country: Portugal
-        country_code: PT
-      directions: Office 5.03
+        postcode: 28037
+        country: Spain
+        country_code: ES
+      directions: Office 3D19
       # Automatically link email and phone or display as text?
       autolink: true
     design:
