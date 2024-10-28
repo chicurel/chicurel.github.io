@@ -11,6 +11,10 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      css_class: 
+      background:
+        color: "#4a5759"
   - block: collection
     id: publications
     content:
@@ -48,7 +52,9 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'    
+      columns: '2'  
+      background:
+        color: "#4a5759"  
   - block: collection
     id: projects
     content:
@@ -86,6 +92,8 @@ sections:
     design:
       columns: '2'
       view: compact
+      background:
+        color: "#4a5759"
   - block: contact
     id: contact
     content:
