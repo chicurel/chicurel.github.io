@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Mariana Carmo Duarte
+title: Jorge M. Fernandes
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Mariana
-last_name: Carmo Duarte
+first_name: Jorge
+last_name: M. Fernandes
 
 # Status emoji
 status:
@@ -21,8 +21,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ICS - University of Lisbon
-    url: https://www.ics.ulisboa.pt/
+  - name: CSIC
+    url: https://www.ilc.csic.es/es/personal/jorge-miguel-alves-fernandes
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include public opinion, party competition, EU politicisation, migration, and survey analysis
