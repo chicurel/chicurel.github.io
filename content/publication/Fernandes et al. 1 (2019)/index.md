@@ -1,18 +1,19 @@
 ---
-title: 'The Politicization of Immigration in Portugal between 1995 and 2014: A European Exception?'
+title: 'Legislative Bellwethers: The Role of Committee Membership in Parliamentary Debate'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - João Carvalho
-  - admin
+  - Jorge M. Fernandes
+  - Max Goplerud
+  - Miguel Won
 
-date: '2020-04-01T00:00:00Z'
+date: '2018-11-02T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+publishDate: '2018-11-02T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,10 +21,10 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*JCMS: Journal of Common Market Studies*"
+publication: "*Legislative Studies Quarterly*"
 publication_short: ""
 
-abstract: Immigration is envisaged as part of an ‘emergent cultural cleavage’ across Western Europe. Within this context, this article explores the politicization of immigration in Portugal between 1995 and 2014. Politicization is interpreted as being formed by two distinct dimensions - salience and polarization of the political claims found within news articles extracted from newspapers. Notwithstanding the doubling of the foreign population settled in the country in the early 2000s, the diminished salience and the absence of significant political conflict suggest that immigration failed to become politicized in Portugal. Drawing on a comparative analysis with seven other European states between 1995 and 2009, Portugal observed the lowest rate of politicization. Rather than being related with socio-economic factors, the lack of politicization of immigration was associated with the strategies of the mainstream parties, which successfully prevented the emergence of this topic as a significant political cleavage.
+abstract: Political parties and legislators use legislative debates to establish their reputation, challenge rivals, and engage in coalition management, among many other tasks. Yet, existing theories on parliamentary debates have abstracted away from the need for information and expertise, which are costly to acquire. Drawing on the “informational” perspective on legislative organization, we address this problem by arguing that party leaders use committees as training arenas for their backbenchers. They task their assigned members with acquiring specific expertise and then rely heavily on those members during the corresponding debates. We turn to the Portuguese legislature, from 2000 to 2015, to discuss how saliency, government dynamics, and party size affect the use of experts. We test this theory using a novel approach to classify speeches that leverages the texts of legislation as training data for a supervised approach.
 
 featured: false
 
@@ -32,9 +33,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13048'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/lsq.12226'
 url_code: ''
-url_dataset: 'https://zenodo.org/records/4437528#.YADEAOj7Q2w'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

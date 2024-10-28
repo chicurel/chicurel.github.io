@@ -1,19 +1,18 @@
 ---
-title: 'Follow the Media? News Environment and Public Concern about Immigration'
+title: 'Unpacking the politics of legislative debates'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - João Carvalho
-  - admin
-  - Didier Ruedin
+  - Jorge M. Fernandes
+  - HANNA BÄCK MARC DEBUS
 
-date: '2024-05-01T00:00:00Z'
+date: '2021-04-23T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2021-04-23T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,7 +23,7 @@ publication_types: ['article-journal']
 publication: "*European Journal of Political Research*"
 publication_short: ""
 
-abstract: Immigration is a hot topic in Europe, but research on the media effects on public attention to immigration remains limited. We examine how media coverage affects the degree of importance attached to immigration in seven Western European countries. Data come from an extensive analysis of claims in printed newspapers, and the Eurobarometer (2002-2009). The continuous sample of news coverage is aggregated into a biannual panel, and we relate these data to citizens’ perceptions of the most important issues in their country six months later (lagged). The public consider immigration more important than other policy-related issues when there is an increase in the volume of news and more political claims on the topic in the media. The media environment appears to be an exogenous actor that can have agenda-setting effects on public concern about immigration. Our results highlight limitations of both the ‘policy-gap’ thesis and thermostatic models of policymaking. 
+abstract: Legislative debates are a thriving field in comparative politics. They make representation work by offering legislators the opportunity to take the floor and represent their constituents. In this paper, we review the key theoretical concepts and empirical findings in a maturing field. We begin by addressing what legislative debates are and why we should study them to learn about inter- and intra-party politics. Next, we look at the contributions springing from Proksch and Slapin's ground-breaking model. In so doing, our review suggests that recent work extends the original model to include further dimensions of legislative debates. Third, we examine the role of legislative debates as mechanisms of representation, focusing on gender. Four, we examine the challenges of the comparative analysis of legislative debates. Finally, we map the road ahead by discussing four avenues of future research and some key questions that remain unanswered.
 
 featured: false
 
@@ -33,8 +32,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12683'
-url_code: 'https://osf.io/xjgny/'
+url_pdf: 'https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12454'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
