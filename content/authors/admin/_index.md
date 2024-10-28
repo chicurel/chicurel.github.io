@@ -81,6 +81,7 @@ highlight_name: true
 
 Welcome to my website! I am a Ramón y Cajal Research Fellow at the [Institute of Public Goods and Policies at CSIC, Madrid.](https://ipp.csic.es/es)These days, I spend most of my time researching on comparative political institutions, with a particular emphasis on legislatures, political parties, legislative debates, and coalitions. 
 
-I hold a PhD in Political and Social Sciences from the  [European University Institute](https://www.eui.eu/en/home). You can find my full CV here.
+I hold a PhD in Political and Social Sciences from the  [European University Institute](https://www.eui.eu/en/home). You can find my full CV [**here**](uploads/cv.pdf).
 
 Feel free to email me at: jorge.fernandes@csic.es
+
