@@ -13,8 +13,6 @@ sections:
       username: admin
     design:
       css_class: 
-      background:
-        color: "#4a5759"
   - block: collection
     id: publications
     content:
@@ -53,8 +51,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'  
-      background:
-        color: "#4a5759"  
   - block: collection
     id: projects
     content:
@@ -100,6 +96,4 @@ sections:
       autolink: true
     design:
       columns: '2'
-      background:
-        color: "#4a5759"
 ---
