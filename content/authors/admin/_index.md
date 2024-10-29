@@ -25,7 +25,7 @@ organizations:
     url: https://www.ilc.csic.es/es/personal/jorge-miguel-alves-fernandes
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include public opinion, party competition, EU politicisation, migration, and survey analysis
+bio: Political Scientist
 
 # Interests to show in About widget
 interests:
