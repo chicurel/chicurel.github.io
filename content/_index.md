@@ -29,7 +29,7 @@ sections:
   - block: collection
     id: workingpapers
     content:
-      title: Working Papers
+      title: Work in Progress
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -82,18 +82,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
-    id: data
-    content:
-      title: Data
-      filters:
-        folders:
-          - data
-    design:
-      columns: '2'
-      view: compact
-      background:
-        color: "#4a5759"
   - block: contact
     id: contact
     content:
@@ -112,4 +100,6 @@ sections:
       autolink: true
     design:
       columns: '2'
+      background:
+        color: "#4a5759"
 ---
