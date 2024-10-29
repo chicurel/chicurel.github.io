@@ -29,11 +29,12 @@ bio: Political Scientist
 
 # Interests to show in About widget
 interests:
-  - Portugal
-  - Politics
-  - 
-  - 
-  - 
+  - Portuguese Politics
+  - Legislative Debates
+  - Comparative Political Institutions
+  - Coalitions
+  - Legislatures
+  - Political Parties
 
 # Education to show in About widget
 education:
