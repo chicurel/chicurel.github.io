@@ -35,20 +35,17 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: false
-    show_language: false
-    show_day_night: false
+    blox: "navbar"
+    align: "left"
+    fixed_to_top: true
     show_search: true
     show_theme_chooser: false
-    fixed_to_top: true
-    highlight_active_link: true
     logo:
       text: "Edgar Chicurel"
     button:
       enable: true
       text: "Contact"
-      url: "https://chicurel.github.io/#contact"
+
 
 
 # Site footer
