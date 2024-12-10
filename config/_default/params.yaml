@@ -41,7 +41,7 @@ header:
     show_day_night: false
     show_search: true
     highlight_active_link: true
-    button: "Get started"
+    button: 
       enable: true
       text: "Get Started"
       link: "https://hugoblox.com/templates/"
