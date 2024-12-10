@@ -46,7 +46,6 @@ header:
     logo:
       text: "Edgar Chicurel"
     button:
-      enable: true
       text: "Contact"
       url: "https://chicurel.github.io/#contact"
 
