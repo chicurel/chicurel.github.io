@@ -38,14 +38,18 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
+    show_theme_chooser: false
+    fixed_to_top: true
     highlight_active_link: true
+    logo:
+      text: "Edgar Chicurel"
     button:
       enable: true
-      text: "github"
-      url: "https://chicurel.github.io/"
-      align: "right"
+      text: "Contact"
+      url: "https://chicurel.github.io/#contact"
+
 
 # Site footer
 
