@@ -83,7 +83,7 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: jorge.fernandes@csic.es
+      email: chicureledgar@gmail.com
       address:
         street: Calle de Albasanz, 26
         city: Madrid
@@ -91,7 +91,7 @@ sections:
         postcode: 28037
         country: Spain
         country_code: ES
-      directions: Office 3D19
+      directions: Office 3D16
       # Automatically link email and phone or display as text?
       autolink: true
     design:
