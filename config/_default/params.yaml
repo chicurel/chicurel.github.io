@@ -41,10 +41,11 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-        button:
+    button:
       enable: true
       text: "github"
       url: "https://chicurel.github.io/"
+      align: "right"
 
 # Site footer
 
