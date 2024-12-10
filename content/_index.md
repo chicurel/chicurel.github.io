@@ -78,6 +78,17 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: collection
+    id: gallery
+    content:
+      title: Gallery
+      filters:
+        folders:
+          - gallery
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: contact
     id: contact
     content:

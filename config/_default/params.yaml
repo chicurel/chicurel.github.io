@@ -41,10 +41,10 @@ header:
     show_day_night: false
     show_search: true
     highlight_active_link: true
-    button:
+button:
       enable: true
-      text: "github"
-      url: "https://chicurel.github.io/"
+      text: "Contact"
+      url: "https://hugoblox.com/templates/"
 
 
 
