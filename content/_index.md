@@ -62,7 +62,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - project
+          - projects
         author: ""
         category: ""
         tag: ""
