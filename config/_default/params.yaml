@@ -39,12 +39,13 @@ header:
     show_logo: true
     show_language: false
     show_day_night: false
-    show_search: true
-    highlight_active_link: true
     button:
       enable: true
       text: "Contact"
-      url: "/#contact"
+      url: "https://chicurel.github.io/#contact"
+    show_search: true
+    highlight_active_link: true
+
 
 # Site footer
 
