@@ -58,13 +58,16 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: custom/at-symbol
-    url: 'mailto:chicureledgar@gmail.com'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:chicureledgar@gmail.com'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/chicurel
-  - icon: brands/linkedin
+  - icon: github
+    link: https://github.com/chicurel
+    label: Github
+  - icon: linkedin
     url: https://www.linkedin.com/in/edgar-chicurel-flores/
+    label: Linkedin
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
