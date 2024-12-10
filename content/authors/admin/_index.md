@@ -79,9 +79,9 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website. I am a research assistant currently working at [CSIC - IPP](https://www.ipp.csic.es/). 
+Welcome to my website. I am currently a Research Assistant working at [CSIC - IPP](https://www.ipp.csic.es/). 
 
-I studied Economics at [Universidad Carlos III](https://www.uc3m.es/bachelor-degree/economics?d=Desktop) where I specialized in Econometrics and Macroeconomics. I also hold a master's degree of [Computational Social Science](https://www.uc3m.es/master/computational-social-science).
+I studied Economics at [Universidad Carlos III](https://www.uc3m.es/bachelor-degree/economics?d=Desktop) where I specialized in Econometrics and Macroeconomics. I also hold a master's degree in [Computational Social Sciences](https://www.uc3m.es/master/computational-social-science).
 
 As an experienced econometrician and macroeconomist, I am dedicated to using data-driven analysis to inform monetary and financial policy in the European Union. I specialize in working with large data sets and interpreting the results to make informed decisions. My ultimate goal is to master the most advanced tools in this field and make a significant impact on current policy issues. 
 
