@@ -6,7 +6,7 @@ tags:
   - Research
   - Data Analysis
   - Economics
-date: '2025'
+date: '2025-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://ipp.csic.es/en'
