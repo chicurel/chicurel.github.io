@@ -46,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jorge M. Fernandes'
+    notice: '© {year} Edgar Chicurel'
     license:
       enable: false
       allow_derivatives: false

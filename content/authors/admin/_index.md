@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Jorge M. Fernandes
+title: Edgar Chicurel
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Jorge
-last_name: M. Fernandes
+first_name: Edgar
+last_name: Chicurel
 
 # Status emoji
 status:
@@ -17,61 +17,55 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Political Scientist 
+role: Economist and Data Scientist 
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: CSIC
-    url: https://www.ilc.csic.es/es/personal/jorge-miguel-alves-fernandes
+    url: https://cchs.csic.es/es/personal/edgar-chicurel-flores
 
 # Short bio (displayed in user profile at end of posts)
-bio: Political Scientist
+bio:  Economist and Data Scientist
 
 # Interests to show in About widget
 interests:
-  - Portuguese Politics
-  - Legislative Debates
-  - Comparative Political Institutions
-  - Coalitions
-  - Legislatures
-  - Political Parties
+  - Econometrics
+  - Research
+  - Text minning
+  - Web scraping
+  - R
+  - Python
+  - Data analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Political and Social Science
-      institution: European University Institute
-      year: 2013
-    - course: Visiting Graduate Student
-      institution: University of California, San Diego 
-      year: 2012
-    - course: MPhil in Comparative Politics
-      institution: Institute of Social Sciences, University of Lisbon
-      year: 2009
-    - course: BA in International Relations
-      institution: University of Minho, Portugal
-      year: 2007
+    - course: MSc in Computational Social Science
+      institution: Universidad Carlos III
+      year: 2023
+    - course: BSc in Economics
+      institution: Universidad Carlos III 
+      year: 2022
+    - course: International Foundation Program
+      institution: Universidad Carlos III
+      year: 2018
+    - course: First year of “Economics and Finances"
+      institution: Instituto Tecnológico y de Estudios Superiores Monterrey – Mexico City
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: x
-    icon_pack: fab
-    link: https://x.com/JMFernandes86
-    label: Follow me on X
-    display:
-      header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=pt-BR&user=EY0nnJcAAAAJ
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-2550-1640
+  - icon: custom/at-symbol
+    url: 'mailto:chicureledgar@gmail.com'
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/chicurel
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/edgar-chicurel-flores/
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,9 +74,6 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a Ramón y Cajal Research Fellow at the [Institute of Public Goods and Policies at CSIC, Madrid.](https://ipp.csic.es/es)These days, I spend most of my time researching on comparative political institutions, with a particular emphasis on legislatures, political parties, legislative debates, and coalitions. 
-
-I hold a PhD in Political and Social Sciences from the  [European University Institute](https://www.eui.eu/en/home). You can find my full CV [**here**](uploads/cv.pdf).
-
-Feel free to email me at: jorge.fernandes@csic.es
+Welcome to my website. I am a research assistant currently working at [CSIC - IPP](https://www.ipp.csic.es/).
+As an experienced econometrician and macroeconomist, I am dedicated to using data-driven analysis to inform monetary and financial policy in the European Union. I specialize in working with large data sets and interpreting the results to make informed decisions. My ultimate goal is to master the most advanced tools in this field and make a significant impact on current policy issues. 
 

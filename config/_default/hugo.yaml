@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Jorge M. Fernandes # Website name
-baseURL: 'https://jorgemfernandes.github.io/' # Website URL
+title: Edgar Chicurel # Website name
+baseURL: 'https://chicurel.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
