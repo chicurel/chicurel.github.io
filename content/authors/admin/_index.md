@@ -63,9 +63,11 @@ social:
     link: 'mailto:chicureledgar@gmail.com'
     label: E-mail Me
   - icon: github
+    icon_pack: fab
     link: https://github.com/chicurel
     label: Github
   - icon: linkedin
+    icon_pack: fab
     url: https://www.linkedin.com/in/edgar-chicurel-flores/
     label: Linkedin
 
