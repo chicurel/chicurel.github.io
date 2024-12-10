@@ -119,7 +119,6 @@ sections:
         country: Spain
         country_code: ES
       directions: Office 3D16
-      phone: 691345024
       # Automatically link email and phone or display as text?
       autolink: true
     design:
