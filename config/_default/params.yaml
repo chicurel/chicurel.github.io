@@ -41,10 +41,6 @@ header:
     show_day_night: false
     show_search: true
     highlight_active_link: true
-button:
-      enable: true
-      text: "Contact"
-      url: "https://hugoblox.com/templates/"
 
 
 
