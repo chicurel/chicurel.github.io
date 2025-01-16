@@ -1,10 +1,10 @@
 ---
-title: 'Researcher in a project on meritocracy, diversity and politicization of elite civil servants in Spain'
+title: ' *(2023-2024)* Researcher in a project on meritocracy, diversity and politicization of elite civil servants in Spain'
 summary: 'f'
 text: 'text here'
 tags:
   - Political Science
-date: '2023-2024'
+date: ''
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://gtr.ukri.org/projects?ref=ES%2fL016664%2f1&pn=1&fetchSize=10&selectedSortableField=firstAuthorName&selectedSortOrder=ASC#/tabOverview'
