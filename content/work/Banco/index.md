@@ -29,6 +29,6 @@ slides: ""
 
 As an intern at the Spanish Central Bank, I gained valuable experience in data analysis and research. My responsibilities included collecting, cleaning and analyzing large datasets using R and STATA. I assisted in several research projects, including building a supply bottlenecks index using word embedding technique, as well as performing economic analyses like regressions. My work on a project involving 200 million observations related to imports and exports and focus on dependencies on EU imports was especially noteworthy. Through these projects, I developed expertise in data collection, descriptive statistics and performing initial economic analysis.
 
-[Banco de España](https://www.bde.es/wbe/es/)
-[A New Supply Bottlenecks Index Based on Newspaper Data](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/23/Files/dt2304e.pdf) 
-[Code](https://github.com/chicurel/Trade_Indicators_BACII)
+- [Banco de España](https://www.bde.es/wbe/es/)
+- [A New Supply Bottlenecks Index Based on Newspaper Data](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/23/Files/dt2304e.pdf) 
+- [Code for Trade Indicators](https://github.com/chicurel/Trade_Indicators_BACII)
