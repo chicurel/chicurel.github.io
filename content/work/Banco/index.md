@@ -4,7 +4,8 @@ summary: 'Analyzed large datasets with R and STATA, contributing to research pro
 
 
 tags:
-  - Data Collection
+  - Data Analysis
+  - Economic Modeling
   - Economics
   - Research
 

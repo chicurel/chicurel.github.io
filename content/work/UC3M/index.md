@@ -7,7 +7,7 @@ tags:
   - Web Scraping
   - Data Analysis
   - Economics
-  - Data Collection
+
 date: '2023-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
