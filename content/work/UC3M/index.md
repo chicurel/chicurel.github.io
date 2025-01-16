@@ -1,6 +1,6 @@
 ---
 title: '(2023-2024) Researcher in a project on meritocracy, diversity and politicization of elite civil servants in Spain'
-summary: ''
+summary: 'Third phase of the research project "Meritocracy, Diversity, and Politicization of Elite Civil Servants in Spain", focusing on the application of machine learning to analyze administrative data on the selection and careers of senior officials'
 
 tags:
   - Political Science
