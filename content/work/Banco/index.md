@@ -14,7 +14,7 @@ date: '2022-11-30T00:00:00Z'
 external_link: 'https://www.bde.es/wbe/es/'
 
 url_code: 'https://github.com/chicurel/Trade_Indicators_BACII'
-url_pdf: 'https://www.bde.es/wbe/es/areas-actuacion/analisis-e-investigacion/recursos indices-de-cuellos-de-botella-en-la-oferta-basados-en-articulos-de-prensa.html'
+url_pdf: 'https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/23/Files/dt2304e.pdf'
 url_slides: ''
 url_video: ''
 
