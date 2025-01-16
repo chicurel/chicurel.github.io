@@ -1,10 +1,10 @@
 ---
-title: 'Master in Computational Social Science'
+title: 'Master in Computational Social Science (English)'
 summary: 'The Master in Computational Social Science offers specialized training in cutting-edge computational and quantitative analysis techniques oriented to the study of the Social Sciences'
 authors:
   - 2022-2023
 
-date: ''
+date: '2023-06-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.uc3m.es/master/computational-social-science#home'
