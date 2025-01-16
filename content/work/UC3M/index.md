@@ -4,7 +4,7 @@ summary: 'f'
 text: 'text here'
 tags:
   - Political Science
-date: '2016-04-27T00:00:00Z'
+date: '2023-2024'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://gtr.ukri.org/projects?ref=ES%2fL016664%2f1&pn=1&fetchSize=10&selectedSortableField=firstAuthorName&selectedSortOrder=ASC#/tabOverview'
