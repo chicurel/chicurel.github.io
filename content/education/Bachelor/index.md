@@ -1,5 +1,5 @@
 ---
-title: 'Bachelor’s degree in Economics, specialized in Quantitative
+title: 'UC3M - Bachelor’s degree in Economics, specialized in Quantitative
 Techniques, Applied Economics and Macroeconomics (English)'
 summary: This degree program provides solid knowledge and tools that allow students to address increasingly complex economic situations impacted by the globalization of markets, the improvement in communications and climate change
 authors:

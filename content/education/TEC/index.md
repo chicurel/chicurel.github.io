@@ -1,5 +1,5 @@
 ---
-title: 'First year of the “Economics and Finances” bachelor´s degree'
+title: 'ITESM - First year of the “Economics and Finances” bachelor´s degree'
 summary: This economics degree is equipped to analyze economical behaviors, design effective public policies, manage investments, and make accurate predictions.
 authors:
   - 2017

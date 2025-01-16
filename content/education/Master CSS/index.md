@@ -1,5 +1,5 @@
 ---
-title: 'Master in Computational Social Science (English)'
+title: 'UC3M - Master in Computational Social Science (English)'
 summary: 'The Master in Computational Social Science offers specialized training in cutting-edge computational and quantitative analysis techniques oriented to the study of the Social Sciences'
 authors:
   - 2022-2023
