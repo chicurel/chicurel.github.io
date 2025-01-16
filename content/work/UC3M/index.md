@@ -25,6 +25,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 I participated in the third phase of the research project "Meritocracy, Diversity, and Politicization of Elite Civil Servants in Spain", focusing on the application of machine learning to analyze administrative data on the selection and careers of senior officials. My activities included web scraping, data extraction from PDF and XML files, organizing and structuring data, conducting descriptive analyses, and visualizing results. I also submitted public information requests through the transparency portal and ensured traceability of the work by maintaining well-documented and clearly commented code.
 
 - [UC3M](https://www.uc3m.es/home)
