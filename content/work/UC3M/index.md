@@ -1,5 +1,6 @@
 ---
-title: '2023-2024 Researcher in a project on meritocracy, diversity and politicization of elite civil servants in Spain'
+title: '(2023-2024)
+Researcher in a project on meritocracy, diversity and politicization of elite civil servants in Spain'
 summary: 'I participated in the third phase of the research project "Meritocracy, Diversity, and Politicization of Elite Civil Servants in Spain (PID2020-115438GA-I00)," focusing on the application of machine learning to analyze administrative data on the selection and careers of senior officials. My activities included web scraping, data extraction from PDF and XML files, organizing and structuring data, conducting descriptive analyses, and visualizing results. I also submitted public information requests through the transparency portal and ensured traceability of the work by maintaining well-documented and clearly commented code.'
 
 tags:
