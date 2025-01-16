@@ -1,5 +1,5 @@
 ---
-title: '– International Foundation Program (English)'
+title: 'International Foundation Program (English)'
 summary: The program's objective is to prepare international students to adapt to the demanding standards of the Spanish university system, particularly at UC3M, while facilitating their integration by acquiring the foundations of Spanish culture and language
 authors:
   - 2018
