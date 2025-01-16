@@ -1,5 +1,5 @@
 ---
-title: 'Researcher in a project on meritocracy, diversity and politicization of elite civil servants in Spain.'
+title: 'Researcher in a project on meritocracy, diversity and politicization of elite civil servants in Spain'
 summary: 'f'
 text: 'text here'
 tags:
