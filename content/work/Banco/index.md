@@ -1,5 +1,5 @@
 ---
-title: 'Banco de España'
+title: '(2022-2023) Banco de España'
 summary: 'As an intern at the Spanish Central Bank, I gained valuable experience in data analysis and research. My responsibilities included collecting, cleaning and analyzing large datasets using R and STATA. I assisted in several research projects, including building a supply bottlenecks index using word embedding technique, as well as performing economic analyses like regressions. My work on a project involving 200 million observations related to imports and exports and focus on dependencies on EU imports was especially noteworthy. Through these projects, I developed expertise in data collection, descriptive statistics and performing initial economic analysis.'
 
 
@@ -11,7 +11,7 @@ tags:
 date: '2022-11-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.bde.es/wbe/es/'
+external_link: ''
 
 url_code: 'https://github.com/chicurel/Trade_Indicators_BACII'
 url_pdf: 'https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/23/Files/dt2304e.pdf'
