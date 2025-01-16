@@ -2,7 +2,7 @@
 title: 'Master in Computational Social Science'
 summary: The Master in Computational Social Science offers specialized training in cutting-edge computational and quantitative analysis techniques oriented to the study of the Social Sciences.
 authors:
-  - 2022-2023
+  - admin
 
 date: '2023-06-30T00:00:00Z'
 
@@ -22,5 +22,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
 
