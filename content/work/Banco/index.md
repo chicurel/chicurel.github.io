@@ -11,9 +11,9 @@ tags:
 date: '2022-11-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.bde.es/wbe/es/'
 
-url_code: 'https://www.bde.es/wbe/es/'
+url_code: 'https://github.com/chicurel/Trade_Indicators_BACII'
 url_pdf: 'https://www.bde.es/wbe/es/areas-actuacion/analisis-e-investigacion/recursos indices-de-cuellos-de-botella-en-la-oferta-basados-en-articulos-de-prensa.html'
 url_slides: ''
 url_video: ''
