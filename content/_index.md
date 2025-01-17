@@ -91,7 +91,7 @@ sections:
           - gallery
         exclude_featured: true
     design:
-      columns: '1'
+      columns: '3'
       view: showcase
   - block: contact
     id: contact
