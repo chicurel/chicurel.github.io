@@ -83,28 +83,30 @@ sections:
     content:
       title: Gallery
       text: |
-        ![Photo 1](gallery/CAN_exports.png)
-        ![Photo 2](gallery/combined_image_2.png)
-        ![Photo 3](gallery/data_viz.png)
-        ![Photo 4](gallery/diplomaticos.png)
-        ![Photo 5](gallery/graph_2.png)
-        ![Photo 6](gallery/graph1.jpg)
-        ![Photo 7](gallery/ine.png)
-        ![Photo 8](gallery/map.png)
-        ![Photo 9](gallery/nafta.png)
-        ![Photo 10](gallery/PCA_2.png)
-        ![Photo 11](gallery/PCA.png)
-        ![Photo 12](gallery/pi.png)
-        ![Photo 13](gallery/reap_cor.png)
-        ![Photo 14](gallery/regression.png)
-        ![Photo 15](gallery/rf.png)
-        ![Photo 16](gallery/roc.png)
-        ![Photo 17](gallery/us_cd1.png)
-        ![Photo 18](gallery/usa_max_exp.png)
-        ![Photo 19](gallery/words.png)
+          <div style="display: flex; overflow-x: auto; gap: 10px;">
+      <img src="gallery/CAN_exports.png" alt="Photo 1" style="width: 150px; height: auto;">
+      <img src="gallery/combined_image_2.png" alt="Photo 2" style="width: 150px; height: auto;">
+      <img src="gallery/data_viz.png" alt="Photo 3" style="width: 150px; height: auto;">
+      <img src="gallery/diplomaticos.png" alt="Photo 4" style="width: 150px; height: auto;">
+      <img src="gallery/graph_2.png" alt="Photo 5" style="width: 150px; height: auto;">
+      <img src="gallery/graph1.jpg" alt="Photo 6" style="width: 150px; height: auto;">
+      <img src="gallery/ine.png" alt="Photo 7" style="width: 150px; height: auto;">
+      <img src="gallery/map.png" alt="Photo 8" style="width: 150px; height: auto;">
+      <img src="gallery/nafta.png" alt="Photo 9" style="width: 150px; height: auto;">
+      <img src="gallery/PCA_2.png" alt="Photo 10" style="width: 150px; height: auto;">
+      <img src="gallery/PCA.png" alt="Photo 11" style="width: 150px; height: auto;">
+      <img src="gallery/pi.png" alt="Photo 12" style="width: 150px; height: auto;">
+      <img src="gallery/reap_cor.png" alt="Photo 13" style="width: 150px; height: auto;">
+      <img src="gallery/regression.png" alt="Photo 14" style="width: 150px; height: auto;">
+      <img src="gallery/rf.png" alt="Photo 15" style="width: 150px; height: auto;">
+      <img src="gallery/roc.png" alt="Photo 16" style="width: 150px; height: auto;">
+      <img src="gallery/us_cd1.png" alt="Photo 17" style="width: 150px; height: auto;">
+      <img src="gallery/usa_max_exp.png" alt="Photo 18" style="width: 150px; height: auto;">
+      <img src="gallery/words.png" alt="Photo 19" style="width: 150px; height: auto;">
+    </div>
     design:
-      columns: 'auto'
-      view: horizontal-scroll
+      columns: '2'
+      view: showcase
   - block: contact
     id: contact
     content:
