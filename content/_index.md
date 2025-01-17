@@ -89,6 +89,11 @@ sections:
     design:
       columns: '1'
       view: showcase
+
+        ![Photo 1](gallery/CAN_exports.png)
+        ![Photo 2](gallery/combined_image_2.png)
+        ![Photo 3](gallery/data_viz.png)
+
   - block: contact
     id: contact
     content:
