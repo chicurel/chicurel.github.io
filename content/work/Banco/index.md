@@ -1,9 +1,7 @@
 ---
-title: 'Intern at Banco de España'
+title: '(2022-2023)  Banco de España'
 summary: 'Analyzed large datasets with R and STATA, contributing to research projects on trade dynamics and supply bottlenecks while developing expertise in data analysis, descriptive statistics, and economic modeling'
 
-authors:
-  - 2022-2023
 
 tags:
   - Data Analysis
