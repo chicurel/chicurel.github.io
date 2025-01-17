@@ -82,7 +82,7 @@ sections:
     id: gallery
     content:
       title: Gallery
-      text: 
+      text: |
         ![Photo 1](gallery/CAN_exports.png)
         ![Photo 2](gallery/combined_image_2.png)
         ![Photo 3](gallery/data_viz.png)
