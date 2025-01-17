@@ -78,7 +78,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
+  - block: markdown
     id: gallery
     content:
       title: Gallery
@@ -87,8 +87,8 @@ sections:
           - gallery
         exclude_featured: true
     design:
-      columns: '2'
-      view: citation
+      columns: 'auto'
+      view: horizontal-scroll
   - block: contact
     id: contact
     content:
