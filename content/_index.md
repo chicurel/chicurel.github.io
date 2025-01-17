@@ -78,7 +78,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: markdown
+  - block: collection
     id: gallery
     content:
       title: Gallery
@@ -87,19 +87,8 @@ sections:
           - gallery
         exclude_featured: true
     design:
-      custom_css: |
-        #gallery {
-          display: flex;
-          overflow-x: auto;
-          scroll-snap-type: x mandatory;
-          gap: 10px;
-        }
-        #gallery img {
-          scroll-snap-align: center;
-          flex: 0 0 auto;
-          width: 300px;  /* Set a fixed width for each image */
-          height: auto;
-        }
+      columns: '1'
+      view: showcase
   - block: contact
     id: contact
     content:
