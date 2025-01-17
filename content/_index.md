@@ -83,7 +83,7 @@ sections:
     content:
       title: Gallery
       text: 
-        ![Photo 1](gallery/CAN_exports.png)
+        ![Photo_1](gallery/CAN_exports.png)
         ![Photo 2](gallery/combined_image_2.png)
         ![Photo 3](gallery/data_viz.png)
       filters:
@@ -91,7 +91,7 @@ sections:
           - gallery
         exclude_featured: true
     design:
-      columns: '3'
+      columns: '2'
       view: showcase
   - block: contact
     id: contact
