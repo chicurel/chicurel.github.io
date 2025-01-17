@@ -83,31 +83,25 @@ sections:
     content:
       title: Gallery
       text: |
-        **Scroll to see more photos**
-
-    <div style="overflow-x: auto; white-space: nowrap; display: flex; gap: 10px;">
-
-    ![Photo 1](gallery/CAN_exports.png){width=150}
-    ![Photo 2](gallery/combined_image_2.png){width=150}
-    ![Photo 3](gallery/data_viz.png){width=150}
-    ![Photo 4](gallery/diplomaticos.png){width=150}
-    ![Photo 5](gallery/graph_2.png){width=150}
-    ![Photo 6](gallery/graph1.jpg){width=150}
-    ![Photo 7](gallery/ine.png){width=150}
-    ![Photo 8](gallery/map.png){width=150}
-    ![Photo 9](gallery/nafta.png){width=150}
-    ![Photo 10](gallery/PCA_2.png){width=150}
-    ![Photo 11](gallery/PCA.png){width=150}
-    ![Photo 12](gallery/pi.png){width=150}
-    ![Photo 13](gallery/reap_cor.png){width=150}
-    ![Photo 14](gallery/regression.png){width=150}
-    ![Photo 15](gallery/rf.png){width=150}
-    ![Photo 16](gallery/roc.png){width=150}
-    ![Photo 17](gallery/us_cd1.png){width=150}
-    ![Photo 18](gallery/usa_max_exp.png){width=150}
-    ![Photo 19](gallery/words.png){width=150}
-
-    </div>
+        ![Photo 1](gallery/CAN_exports.png){width=150}
+        ![Photo 2](gallery/combined_image_2.png)
+        ![Photo 3](gallery/data_viz.png)
+        ![Photo 4](gallery/diplomaticos.png)
+        ![Photo 5](gallery/graph_2.png)
+        ![Photo 6](gallery/graph1.jpg)
+        ![Photo 7](gallery/ine.png)
+        ![Photo 8](gallery/map.png)
+        ![Photo 9](gallery/nafta.png)
+        ![Photo 10](gallery/PCA_2.png)
+        ![Photo 11](gallery/PCA.png)
+        ![Photo 12](gallery/pi.png)
+        ![Photo 13](gallery/reap_cor.png)
+        ![Photo 14](gallery/regression.png)
+        ![Photo 15](gallery/rf.png)
+        ![Photo 16](gallery/roc.png)
+        ![Photo 17](gallery/us_cd1.png)
+        ![Photo 18](gallery/usa_max_exp.png)
+        ![Photo 19](gallery/words.png)
     design:
       columns: '2'
       view: showcase
