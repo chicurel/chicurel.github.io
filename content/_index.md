@@ -103,8 +103,8 @@ sections:
         ![Photo 18](gallery/usa_max_exp.png)
         ![Photo 19](gallery/words.png)
     design:
-      columns: '2'
-      view: showcase
+      columns: 'auto'
+      view: horizontal-scroll
   - block: contact
     id: contact
     content:
