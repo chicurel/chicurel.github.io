@@ -83,9 +83,19 @@ sections:
     content:
       title: Gallery
       text: 
-        ![Photo 1](gallery/CAN_exports.png)
-        ![Photo 2](gallery/combined_image_2.png)
-        ![Photo 3](gallery/data_viz.png)
+        ![Photo_1](gallery/CAN_exports.png)
+        ![Photo_2](gallery/combined_image_2.png)
+        ![Photo_3](gallery/data_viz.png)
+        ![Photo_4](gallery/diplomaticos.png)
+        ![Photo_5](gallery/graph_2.png)
+        ![Photo_6](gallery/graph1.jpg)
+
+        <div style="display: flex; gap: 10px;">
+          <img src="gallery/CAN_exports.png" alt="Photo_1" style="width: 30%;"/>
+          <img src="gallery/combined_image_2.png" alt="Photo_2" style="width: 30%;"/>
+          <img src="gallery/data_viz.png" alt="Photo_3" style="width: 30%;"/>
+        </div>
+
       filters:
         folders:
           - gallery
