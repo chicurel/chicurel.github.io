@@ -87,8 +87,19 @@ sections:
           - gallery
         exclude_featured: true
     design:
-      columns: 'auto'
-      view: horizontal-scroll
+      custom_css: |
+        #gallery {
+          display: flex;
+          overflow-x: auto;
+          scroll-snap-type: x mandatory;
+          gap: 10px;
+        }
+        #gallery img {
+          scroll-snap-align: center;
+          flex: 0 0 auto;
+          width: 300px;  /* Set a fixed width for each image */
+          height: auto;
+        }
   - block: contact
     id: contact
     content:
