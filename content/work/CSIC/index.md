@@ -1,6 +1,9 @@
 ---
-title: '(2023-current)  Researcher and Data Analyst at "The Institute of Public Policies and Goods - CSIC"'
+title: 'Researcher and Data Analyst at "The Institute of Public Policies and Goods - CSIC"'
 summary: 'Conducted and communicated advanced data and economic analyses, leveraging causal inference and NLP techniques to support research efficiency and dissemination in academic and policy-making contexts'
+
+authors:
+  - 2023-current
 
 tags:
   - Political Science
