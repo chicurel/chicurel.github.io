@@ -1,6 +1,8 @@
 ---
 image:
-  caption: 'Image credit: [Photo 1](Bachelor/CAN_exports.png)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
 ---
 
  
