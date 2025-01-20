@@ -78,48 +78,35 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
- - block: github.chicurel.gallery-hugo-blox
-  id: gallery-hugo-blox
-  content:
-    title: Gallery
-    images:
-      - src: gallery/CAN_exports.png
-        alt: Photo 1
-      - src: gallery/combined_image_2.png
-        alt: Photo 2
-      - src: gallery/data_viz.png
-        alt: Photo 3
-      - src: gallery/diplomaticos.png
-        alt: Photo 4
-      - src: gallery/graph_2.png
-        alt: Photo 5
-      - src: gallery/graph1.jpg
-        alt: Photo 6
-      - src: gallery/ine.png
-        alt: Photo 7
-      - src: gallery/map.png
-        alt: Photo 8
-      - src: gallery/nafta.png
-        alt: Photo 9
-      - src: gallery/PCA_2.png
-        alt: Photo 10
-      - src: gallery/PCA.png
-        alt: Photo 11
-      - src: gallery/pi.png
-        alt: Photo 12
-      - src: gallery/reap_cor.png
-        alt: Photo 13
-      - src: gallery/regression.png
-        alt: Photo 14
-      - src: gallery/rf.png
-        alt: Photo 15
-      - src: gallery/roc.png
-        alt: Photo 16
-      - src: gallery/us_cd1.png
-        alt: Photo 17
-      - src: gallery/usa_max_exp.png
-        alt: Photo 18
-      - src: gallery/words.png
+  - block: markdown
+    id: gallery
+    content:
+      title: Gallery
+      text: |
+            <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; scrollbar-width: thin;">
+      <img src="gallery/CAN_exports.png" alt="Photo 1" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/combined_image_2.png" alt="Photo 2" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/data_viz.png" alt="Photo 3" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/diplomaticos.png" alt="Photo 4" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/graph_2.png" alt="Photo 5" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/graph1.jpg" alt="Photo 6" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/ine.png" alt="Photo 7" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/map.png" alt="Photo 8" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/nafta.png" alt="Photo 9" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/PCA_2.png" alt="Photo 10" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/PCA.png" alt="Photo 11" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/pi.png" alt="Photo 12" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/reap_cor.png" alt="Photo 13" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/regression.png" alt="Photo 14" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/rf.png" alt="Photo 15" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/roc.png" alt="Photo 16" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/us_cd1.png" alt="Photo 17" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/usa_max_exp.png" alt="Photo 18" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <img src="gallery/words.png" alt="Photo 19" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    </div>
+    design:
+      columns: '2'
+      view: showcase
   - block: contact
     id: contact
     content:
