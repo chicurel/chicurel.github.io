@@ -18,5 +18,4 @@ url_video: ''
 slides: ""
 ---
 
-![Photo 1](gallery/CAN_exports.png)
  
