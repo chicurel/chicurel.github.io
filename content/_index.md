@@ -78,7 +78,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: markdown
+  - block: gallery-hugo-blox
     id: gallery-hugo-blox
     content:
       title: Gallery
