@@ -78,7 +78,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: gallery-hugo-blox
+  - block: markdown
     id: gallery-hugo-blox
     content:
       title: Gallery
@@ -87,9 +87,6 @@ sections:
           alt: "Photo 1 description"
         - src: "gallery/diplomaticos.png"
           alt: "Photo 2 description"
-    design:
-      columns: '2'
-      view: showcase
   - block: contact
     id: contact
     content:
