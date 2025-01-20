@@ -1,6 +1,6 @@
 ---
 image:
-  caption: 'Image credit: [Photo 1](gallery/CAN_exports.png)'
+  caption: 'Image credit: [Photo 1](Bachelor/CAN_exports.png)'
 ---
 
  
