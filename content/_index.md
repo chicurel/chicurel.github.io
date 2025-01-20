@@ -78,15 +78,48 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: markdown
-    id: gallery-hugo-blox
-    content:
-      title: Gallery
-      images: 
-        - src: "gallery/data_viz.png"
-          alt: "Photo 1 description"
-        - src: "gallery/diplomaticos.png"
-          alt: "Photo 2 description"
+ - block: custom
+  id: gallery-hugo-blox
+  content:
+    title: Gallery
+    images:
+      - src: gallery/CAN_exports.png
+        alt: Photo 1
+      - src: gallery/combined_image_2.png
+        alt: Photo 2
+      - src: gallery/data_viz.png
+        alt: Photo 3
+      - src: gallery/diplomaticos.png
+        alt: Photo 4
+      - src: gallery/graph_2.png
+        alt: Photo 5
+      - src: gallery/graph1.jpg
+        alt: Photo 6
+      - src: gallery/ine.png
+        alt: Photo 7
+      - src: gallery/map.png
+        alt: Photo 8
+      - src: gallery/nafta.png
+        alt: Photo 9
+      - src: gallery/PCA_2.png
+        alt: Photo 10
+      - src: gallery/PCA.png
+        alt: Photo 11
+      - src: gallery/pi.png
+        alt: Photo 12
+      - src: gallery/reap_cor.png
+        alt: Photo 13
+      - src: gallery/regression.png
+        alt: Photo 14
+      - src: gallery/rf.png
+        alt: Photo 15
+      - src: gallery/roc.png
+        alt: Photo 16
+      - src: gallery/us_cd1.png
+        alt: Photo 17
+      - src: gallery/usa_max_exp.png
+        alt: Photo 18
+      - src: gallery/words.png
   - block: contact
     id: contact
     content:
