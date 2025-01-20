@@ -81,7 +81,7 @@ sections:
   - block: markdown
     id: gallery
     content:
-      title: Gallery
+      title: gallery-hugo-blox
       text: |
         ![Photo 1](gallery/CAN_exports.png)
         ![Photo 2](gallery/combined_image_2.png)
