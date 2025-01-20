@@ -8,4 +8,4 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
-  - path: github.com/chicurel/gallery-hugo-blox
+  - path: github.com/chicurel/hugo-blox-gallery-hugo-blox
