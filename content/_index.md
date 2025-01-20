@@ -82,26 +82,11 @@ sections:
     id: gallery-hugo-blox
     content:
       title: Gallery
-      text: |
-        ![Photo 1](gallery/CAN_exports.png)
-        ![Photo 2](gallery/combined_image_2.png)
-        ![Photo 3](gallery/data_viz.png)
-        ![Photo 4](gallery/diplomaticos.png)
-        ![Photo 5](gallery/graph_2.png)
-        ![Photo 6](gallery/graph1.jpg)
-        ![Photo 7](gallery/ine.png)
-        ![Photo 8](gallery/map.png)
-        ![Photo 9](gallery/nafta.png)
-        ![Photo 10](gallery/PCA_2.png)
-        ![Photo 11](gallery/PCA.png)
-        ![Photo 12](gallery/pi.png)
-        ![Photo 13](gallery/reap_cor.png)
-        ![Photo 14](gallery/regression.png)
-        ![Photo 15](gallery/rf.png)
-        ![Photo 16](gallery/roc.png)
-        ![Photo 17](gallery/us_cd1.png)
-        ![Photo 18](gallery/usa_max_exp.png)
-        ![Photo 19](gallery/words.png)
+      images: 
+        - src: "gallery/data_viz.png"
+          alt: "Photo 1 description"
+        - src: "gallery/diplomaticos.png"
+          alt: "Photo 2 description"
     design:
       columns: '2'
       view: showcase
