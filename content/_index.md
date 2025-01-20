@@ -78,17 +78,29 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-   - block: collection
+  - block: collection
     id: gallery
     content:
       title: Gallery
+      text: "" 
       filters:
+        # The folders to display content from
         folders:
           - gallery
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
         featured_only: true
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
     design:
+      # Choose a listing view
       view: article-grid
-      columns: 2
+      columns: '2'  
   - block: contact
     id: contact
     content:
