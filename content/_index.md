@@ -79,9 +79,9 @@ sections:
       view: compact
       columns: '2'
   - block: markdown
-    id: gallery
+    id: gallery-hugo-blox
     content:
-      title: gallery-hugo-blox
+      title: Gallery
       text: |
         ![Photo 1](gallery/CAN_exports.png)
         ![Photo 2](gallery/combined_image_2.png)
