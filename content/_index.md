@@ -87,24 +87,60 @@ sections:
           <img src="gallery/CAN_exports.png" alt="Photo 1" 
             style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
             onclick="window.open('gallery/CAN_exports.png', '_blank');">          
-          <img src="gallery/combined_image_2.png" alt="Photo 2" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/data_viz.png" alt="Photo 3" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/diplomaticos.png" alt="Photo 4" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/graph_2.png" alt="Photo 5" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/graph1.jpg" alt="Photo 6" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/ine.png" alt="Photo 7" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/map.png" alt="Photo 8" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/nafta.png" alt="Photo 9" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/PCA_2.png" alt="Photo 10" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/PCA.png" alt="Photo 11" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/pi.png" alt="Photo 12" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/reap_cor.png" alt="Photo 13" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/regression.png" alt="Photo 14" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/rf.png" alt="Photo 15" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/roc.png" alt="Photo 16" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/us_cd1.png" alt="Photo 17" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/usa_max_exp.png" alt="Photo 18" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/words.png" alt="Photo 19" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <img src="gallery/combined_image_2.png" alt="Photo 2" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/combined_image_2.png', '_blank');">
+          <img src="gallery/data_viz.png" alt="Photo 3" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/data_viz.png', '_blank');">
+          <img src="gallery/diplomaticos.png" alt="Photo 4" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/diplomaticos.png', '_blank');">
+          <img src="gallery/graph_2.png" alt="Photo 5" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/graph_2.png', '_blank');">
+          <img src="gallery/graph1.jpg" alt="Photo 6" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/graph1.jpg', '_blank');">
+          <img src="gallery/ine.png" alt="Photo 7" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/ine.png', '_blank');">
+          <img src="gallery/map.png" alt="Photo 8" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/map.png', '_blank');">
+          <img src="gallery/nafta.png" alt="Photo 9" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/nafta.png', '_blank');">
+          <img src="gallery/PCA_2.png" alt="Photo 10" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/PCA_2.png', '_blank');">
+          <img src="gallery/PCA.png" alt="Photo 11" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/PCA.png', '_blank');">
+          <img src="gallery/pi.png" alt="Photo 12" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/pi.png', '_blank');">
+          <img src="gallery/reap_cor.png" alt="Photo 13" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/reap_cor.png', '_blank');">
+          <img src="gallery/regression.png" alt="Photo 14" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/regression.png', '_blank');">
+          <img src="gallery/rf.png" alt="Photo 15" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/rf.png', '_blank');">
+          <img src="gallery/roc.png" alt="Photo 16" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/roc.png', '_blank');">
+          <img src="gallery/us_cd1.png" alt="Photo 17" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/us_cd1.png', '_blank');">
+          <img src="gallery/usa_max_exp.png" alt="Photo 18" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/usa_max_exp.png', '_blank');">
+          <img src="gallery/words.png" alt="Photo 19" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;"
+            onclick="window.open('gallery/words.png', '_blank');">
         </div>
     design:
       columns: '1'
