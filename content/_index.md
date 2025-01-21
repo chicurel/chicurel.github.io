@@ -108,62 +108,14 @@ sections:
           </style>
 
           <!-- Images -->
-          <a href="gallery/CAN_exports.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/CAN_exports.png" alt="Photo 1" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
+          <a href="gallery/CAN_exports.png" target="_blank">
+              <img src="gallery/CAN_exports.png" alt="Photo 1" class="gallery-image">
           </a>
-          <a href="gallery/combined_image_2.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/combined_image_2.png" alt="Photo 2" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
+          <a href="gallery/combined_image_2.png" target="_blank">
+            <img src="gallery/combined_image_2.png" alt="Photo 2" class="gallery-image">
           </a>
-          <a href="gallery/data_viz.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/data_viz.png" alt="Photo 3" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/diplomaticos.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/diplomaticos.png" alt="Photo 4" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/graph_2.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/graph_2.png" alt="Photo 5" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/words.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/words.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/graph1.jpg" target="_blank" style="display: inline-block;">
-            <img src="gallery/graph1.jpg" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/ine.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/ine.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/map.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/map.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/nafta.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/nafta.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/PCA_2.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/PCA_2.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/PCA.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/PCA.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/pi.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/pi.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/reap_cor.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/reap_cor.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/regression.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/regression.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/rf.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/rf.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/roc.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/roc.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/us_cd1.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/us_cd1.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
-          </a>
-          <a href="gallery/usa_max_exp.png" target="_blank" style="display: inline-block;">
-            <img src="gallery/usa_max_exp.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
+          <a href="gallery/data_viz.png" target="_blank">
+            <img src="gallery/data_viz.png" alt="Photo 3" class="gallery-image">
           </a>
         </div>
     design:
