@@ -84,29 +84,6 @@ sections:
       title: Gallery
       text: |
         <div style="display: flex; overflow-x: auto; gap: 10px; padding: 20px; scroll-behavior: smooth;">
-          <style>
-            /* Custom Scrollbar */
-            div[style*="overflow-x: auto"]::-webkit-scrollbar {
-              height: 10px;
-              background-color: #888;
-            }
-
-            div[style*="overflow-x: auto"]::-webkit-scrollbar-thumb {
-              background-color: #888;
-              border-radius: 10px;
-            }
-
-            div[style*="overflow-x: auto"]::-webkit-scrollbar-thumb:hover {
-              background-color: #555;
-            }
-
-            /* Image hover effect */
-            .gallery-image:hover {
-              transform: scale(1.1);
-              transition: transform 0.3s ease;
-            }
-          </style>
-        <div style="display: flex; overflow-x: auto; gap: 10px; padding: 20px; scroll-behavior: smooth;">
           <img src="gallery/CAN_exports.png" alt="Photo 1" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
           <img src="gallery/combined_image_2.png" alt="Photo 2" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
           <img src="gallery/data_viz.png" alt="Photo 3" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
