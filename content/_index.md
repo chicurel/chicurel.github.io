@@ -83,7 +83,7 @@ sections:
     content:
       title: Gallery
       text: |
-        <div style="display: flex; overflow-x: auto; gap: 10px; padding: 20px; scroll-behavior: smooth; max-width: 100%; white-space: nowrap;">
+        <div style="display: flex; overflow-x: auto; gap: 10px; padding: 20px; scroll-behavior: smooth; max-width: 100%; white-space: nowrap; box-sizing: border-box;">
           <style>
             /* Custom Scrollbar */
             div[style*="overflow-x: auto"]::-webkit-scrollbar {
@@ -100,14 +100,20 @@ sections:
               background-color: #555;
             }
 
-            /* Image hover effect */
-            .gallery-image:hover {
-              flex-shrink: 0;
-              width: 150px;
-              height: auto;
+            .gallery-image {
+              flex-shrink: 0; /* Prevent shrinking */
+              width: 150px; /* Fixed width */
+              height: auto; /* Maintain aspect ratio */
               border-radius: 8px;
               box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             }
+
+            /* Hover Effect */
+            .gallery-image:hover {
+              transform: scale(1.1);
+              transition: transform 0.3s ease;
+            }
+
           </style>
 
           <!-- Images -->
