@@ -113,7 +113,6 @@ sections:
               transform: scale(1.1);
               transition: transform 0.3s ease;
             }
-
           </style>
 
           <!-- Images -->
@@ -175,9 +174,6 @@ sections:
             <img src="gallery/usa_max_exp.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
           </a>
         </div>
-    design:
-      columns: '1'
-      view: showcase
   - block: contact
     id: contact
     content:
