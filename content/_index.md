@@ -84,25 +84,16 @@ sections:
       title: Gallery
       text: |
         <div style="display: flex; overflow-x: auto; gap: 10px; padding: 20px; scroll-behavior: smooth;">
-          <img src="gallery/CAN_exports.png" alt="Photo 1" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/combined_image_2.png" alt="Photo 2" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/data_viz.png" alt="Photo 3" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/diplomaticos.png" alt="Photo 4" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/graph_2.png" alt="Photo 5" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/graph1.jpg" alt="Photo 6" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/ine.png" alt="Photo 7" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/map.png" alt="Photo 8" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/nafta.png" alt="Photo 9" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/PCA_2.png" alt="Photo 10" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/PCA.png" alt="Photo 11" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/pi.png" alt="Photo 12" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/reap_cor.png" alt="Photo 13" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/regression.png" alt="Photo 14" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/rf.png" alt="Photo 15" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/roc.png" alt="Photo 16" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/us_cd1.png" alt="Photo 17" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/usa_max_exp.png" alt="Photo 18" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          <img src="gallery/words.png" alt="Photo 19" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <a href="javascript:void(0);" onclick="openModal('gallery/CAN_exports.png')">
+            <img src="gallery/CAN_exports.png" alt="Photo 1" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          </a>
+          <a href="javascript:void(0);" onclick="openModal('gallery/combined_image_2.png')">
+            <img src="gallery/combined_image_2.png" alt="Photo 2" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          </a>
+        </div>
+        <div id="modal" style="display:none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.7); justify-content: center; align-items: center; z-index: 1000;">
+          <span onclick="closeModal()" style="position: absolute; top: 20px; right: 20px; color: white; font-size: 30px; cursor: pointer;">&times;</span>
+          <img id="modalImage" src="" alt="Enlarged Image" style="max-width: 90%; max-height: 90%; margin: auto;">
         </div>
     design:
       columns: '1'
