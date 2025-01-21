@@ -88,7 +88,7 @@ sections:
             /* Custom Scrollbar */
             div[style*="overflow-x: auto"]::-webkit-scrollbar {
               height: 10px;
-              background-color: #f0f0f0;
+              background-color:rgb(75, 70, 74);
             }
 
             div[style*="overflow-x: auto"]::-webkit-scrollbar-thumb {
