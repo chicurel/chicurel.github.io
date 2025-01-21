@@ -126,8 +126,8 @@ sections:
               <a href="gallery/words.png" target="_blank" style="display: block;">
                 <img src="gallery/words.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
-              <a href="gallery/graph_1.png" target="_blank" style="display: block;">
-                <img src="gallery/graph_1.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              <a href="gallery/graph_1.jpg" target="_blank" style="display: block;">
+                <img src="gallery/graph_1.jpg" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
               <a href="gallery/ine.png" target="_blank" style="display: block;">
                 <img src="gallery/ine.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
@@ -143,6 +143,27 @@ sections:
               </a>
               <a href="gallery/PCA.png" target="_blank" style="display: block;">
                 <img src="gallery/PCA.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/pi.png" target="_blank" style="display: block;">
+                <img src="gallery/pi.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/reap_cor.png" target="_blank" style="display: block;">
+                <img src="gallery/reap_cor.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/regression.png" target="_blank" style="display: block;">
+                <img src="gallery/regression.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/rf.png" target="_blank" style="display: block;">
+                <img src="gallery/rf.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/roc.png" target="_blank" style="display: block;">
+                <img src="gallery/roc.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/us_cd1.png" target="_blank" style="display: block;">
+                <img src="gallery/us_cd1.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/usa_max_exp.png" target="_blank" style="display: block;">
+                <img src="gallery/usa_max_exp.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
             </div>
     design:
