@@ -105,7 +105,7 @@ sections:
           <img src="gallery/words.png" alt="Photo 19" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         </div>
     design:
-      columns: '2'
+      columns: '1'
       view: showcase
   - block: contact
     id: contact
