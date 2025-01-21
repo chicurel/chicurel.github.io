@@ -78,28 +78,33 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
-    id: gallery
-    content:
-      title: Gallery
-      text: "" 
-      filters:
-        # The folders to display content from
-        folders:
-          - gallery
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: true
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-    design:
-      pacing:
-        padding: ['3rem', 0, '6rem', 0]
+    - block: markdown
+      id: gallery
+      content:
+        title: Gallery
+        text: |
+        ![Photo 1](gallery/CAN_exports.png)
+        ![Photo 2](gallery/combined_image_2.png)
+        ![Photo 3](gallery/data_viz.png)
+        ![Photo 4](gallery/diplomaticos.png)
+        ![Photo 5](gallery/graph_2.png)
+        ![Photo 6](gallery/graph1.jpg)
+        ![Photo 7](gallery/ine.png)
+        ![Photo 8](gallery/map.png)
+        ![Photo 9](gallery/nafta.png)
+        ![Photo 10](gallery/PCA_2.png)
+        ![Photo 11](gallery/PCA.png)
+        ![Photo 12](gallery/pi.png)
+        ![Photo 13](gallery/reap_cor.png)
+        ![Photo 14](gallery/regression.png)
+        ![Photo 15](gallery/rf.png)
+        ![Photo 16](gallery/roc.png)
+        ![Photo 17](gallery/us_cd1.png)
+        ![Photo 18](gallery/usa_max_exp.png)
+        ![Photo 19](gallery/words.png)
+      design:
+        columns: '2'
+        view: showcase
   - block: contact
     id: contact
     content:
