@@ -78,11 +78,11 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-    - block: markdown
-      id: gallery
-      content:
-        title: Gallery
-        text: |
+  - block: markdown
+    id: gallery
+    content:
+      title: Gallery
+      text: |
         ![Photo 1](gallery/CAN_exports.png)
         ![Photo 2](gallery/combined_image_2.png)
         ![Photo 3](gallery/data_viz.png)
@@ -102,9 +102,9 @@ sections:
         ![Photo 17](gallery/us_cd1.png)
         ![Photo 18](gallery/usa_max_exp.png)
         ![Photo 19](gallery/words.png)
-      design:
-        columns: '2'
-        view: showcase
+    design:
+      columns: '2'
+      view: showcase
   - block: contact
     id: contact
     content:
