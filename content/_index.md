@@ -109,22 +109,34 @@ sections:
 
               <!-- Images -->
               <a href="gallery/CAN_exports.png" target="_blank" style="display: block;">
-                <img src="gallery/CAN_exports.png" alt="Photo 1" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                <img src="gallery/CAN_exports.png" alt="Photo 1" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
               <a href="gallery/combined_image_2.png" target="_blank" style="display: block;">
-                <img src="gallery/combined_image_2.png" alt="Photo 2" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                <img src="gallery/combined_image_2.png" alt="Photo 2" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
               <a href="gallery/data_viz.png" target="_blank" style="display: block;">
-                <img src="gallery/data_viz.png" alt="Photo 3" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                <img src="gallery/data_viz.png" alt="Photo 3" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
               <a href="gallery/diplomaticos.png" target="_blank" style="display: block;">
-                <img src="gallery/diplomaticos.png" alt="Photo 4" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                <img src="gallery/diplomaticos.png" alt="Photo 4" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
               <a href="gallery/graph_2.png" target="_blank" style="display: block;">
-                <img src="gallery/graph_2.png" alt="Photo 5" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                <img src="gallery/graph_2.png" alt="Photo 5" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
               <a href="gallery/words.png" target="_blank" style="display: block;">
-                <img src="gallery/words.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                <img src="gallery/words.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/graph_1.png" target="_blank" style="display: block;">
+                <img src="gallery/graph_1.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/ine.png" target="_blank" style="display: block;">
+                <img src="gallery/ine.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/map.png" target="_blank" style="display: block;">
+                <img src="gallery/map.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              </a>
+              <a href="gallery/nafta.png" target="_blank" style="display: block;">
+                <img src="gallery/nafta.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: 150px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
             </div>
     design:
