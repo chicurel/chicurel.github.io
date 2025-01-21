@@ -118,16 +118,7 @@ sections:
             <img src="gallery/data_viz.png" alt="Photo 3" class="gallery-image">
           </a>
           <a href="gallery/diplomaticos.png" target="_blank">
-            <img src="gallery/diplomaticos.png" alt="Photo 4" class="gallery-image">
-          </a>
-          <a href="gallery/data_viz.png" target="_blank">
-            <img src="gallery/data_viz.png" alt="Photo 3" class="gallery-image">
-          </a>
-          <a href="gallery/data_viz.png" target="_blank">
-            <img src="gallery/data_viz.png" alt="Photo 3" class="gallery-image">
-          </a>
-          <a href="gallery/data_viz.png" target="_blank">
-            <img src="gallery/data_viz.png" alt="Photo 3" class="gallery-image">
+            <img src="gallery/diplomaticos.png" alt="Photo 3" class="gallery-image">
           </a>
         </div>
     design:
