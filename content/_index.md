@@ -87,17 +87,17 @@ sections:
               <style>
                 /* Custom Scrollbar */
                 div[style*="overflow-x: auto"]::-webkit-scrollbar {
-                height: 10px;
-                background-color: #f0f0f0;
+                  height: 10px;
+                  background-color: #f0f0f0;
                 }
 
-              div[style*="overflow-x: auto"]::-webkit-scrollbar-thumb {
-                background-color: #888;
-                border-radius: 10px;
+                div[style*="overflow-x: auto"]::-webkit-scrollbar-thumb {
+                  background-color: #888;
+                  border-radius: 10px;
                 }
 
-              div[style*="overflow-x: auto"]::-webkit-scrollbar-thumb:hover {
-                background-color: #555;
+                div[style*="overflow-x: auto"]::-webkit-scrollbar-thumb:hover {
+                  background-color: #555;
                 }
 
                 /* Image hover effect */
@@ -126,8 +126,8 @@ sections:
               <a href="gallery/words.png" target="_blank" style="display: block;">
                 <img src="gallery/words.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
-              <a href="gallery/graph_1.jpg" target="_blank" style="display: block;">
-                <img src="gallery/graph_1.jpg" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+              <a href="gallery/graph1.jpg" target="_blank" style="display: block;">
+                <img src="gallery/graph1.jpg" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
               </a>
               <a href="gallery/ine.png" target="_blank" style="display: block;">
                 <img src="gallery/ine.png" alt="Photo 19" class="gallery-image" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
