@@ -83,25 +83,14 @@ sections:
     content:
       title: Gallery
       text: |
-        ![Photo 1](gallery/CAN_exports.png)
-        ![Photo 2](gallery/combined_image_2.png)
-        ![Photo 3](gallery/data_viz.png)
-        ![Photo 4](gallery/diplomaticos.png)
-        ![Photo 5](gallery/graph_2.png)
-        ![Photo 6](gallery/graph1.jpg)
-        ![Photo 7](gallery/ine.png)
-        ![Photo 8](gallery/map.png)
-        ![Photo 9](gallery/nafta.png)
-        ![Photo 10](gallery/PCA_2.png)
-        ![Photo 11](gallery/PCA.png)
-        ![Photo 12](gallery/pi.png)
-        ![Photo 13](gallery/reap_cor.png)
-        ![Photo 14](gallery/regression.png)
-        ![Photo 15](gallery/rf.png)
-        ![Photo 16](gallery/roc.png)
-        ![Photo 17](gallery/us_cd1.png)
-        ![Photo 18](gallery/usa_max_exp.png)
-        ![Photo 19](gallery/words.png)
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; padding: 20px;">
+          <img src="gallery/CAN_exports.png" alt="Photo 1" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <img src="gallery/combined_image_2.png" alt="Photo 2" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <img src="gallery/data_viz.png" alt="Photo 3" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <img src="gallery/diplomaticos.png" alt="Photo 4" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <img src="gallery/graph_2.png" alt="Photo 5" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+          <img src="gallery/graph1.jpg" alt="Photo 6" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+        </div>
     design:
       columns: '2'
       view: showcase
