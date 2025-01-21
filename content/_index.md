@@ -98,9 +98,6 @@ sections:
       # Choose how many pages you would like to offset by
       # Useful if you wish to show the first item in the Featured widget
     design:
-      # Choose a listing view
-      view: article-grid
-      columns: '2'  
       pacing:
         padding: ['3rem', 0, '6rem', 0]
   - block: contact

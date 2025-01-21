@@ -4,8 +4,6 @@
 featured: true
 image:
   caption: 'Political Representation in Portugal'
-  focal_point: ''
-  preview_only: false
 ---
 
 
