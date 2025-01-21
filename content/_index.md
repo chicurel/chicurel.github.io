@@ -84,9 +84,9 @@ sections:
       title: Gallery
       text: |
         <div style="display: flex; overflow-x: auto; gap: 10px; padding: 20px; scroll-behavior: smooth;">
-          <a href="gallery/CAN_exports.png" target="_blank">
-            <img src="gallery/CAN_exports.png" alt="Photo 1" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-          </a>
+          <img src="gallery/CAN_exports.png" alt="Photo 1" 
+            style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
+            onclick="window.open('gallery/CAN_exports.png', '_blank');">          
           <img src="gallery/combined_image_2.png" alt="Photo 2" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
           <img src="gallery/data_viz.png" alt="Photo 3" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
           <img src="gallery/diplomaticos.png" alt="Photo 4" style="width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
