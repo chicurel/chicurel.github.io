@@ -15,7 +15,8 @@ url_slides: ''
 url_video: 'projects/web_scraping/Selenium_reefbase_in.mp4'
 
 ---
-In this notebook, we used XPath (XML) and the Selenium package to build a web scraper that extracts
-data from a reef webpage. Specifically, we created scraper that extracts reef and marine data from different
-countries. In the following sections, we demonstrate the step-by-step process of building this web scraper
+
+In this Project, I used XPath (XML) and the Selenium package to build a web scraper that extracts
+data from a reef webpage. Specifically, I created scraper that extracts reef and marine data from different
+countries. In the following sections, I demonstrate the step-by-step process of building this web scraper
 using R and finish with some ways to visualize and analyse the extracted data.
