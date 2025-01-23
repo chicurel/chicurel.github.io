@@ -1,5 +1,5 @@
 ---
-title: 'Scraper Reef base'
+title: 'Reef Base Scraper'
 summary: 'Web Scraper that extracts data from a reef webpage.'
 authors:
   - 2023
