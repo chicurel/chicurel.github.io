@@ -1,6 +1,6 @@
 ---
-title: Scraper Reef base
-summary: Web Scraper that extracts data from a reef webpage.
+title: 'Scraper Reef base'
+summary: 'Web Scraper that extracts data from a reef webpage.'
 authors:
   - 2023
 date: '2023-12-01T00:00:00Z'
