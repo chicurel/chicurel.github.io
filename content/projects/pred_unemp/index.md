@@ -1,25 +1,25 @@
 ---
-title: 'Predicting Unemployment'
-summary: 'Predicting Unemployment with Demographic and Labor Force Characteristics'
+title: 'Revitalizing Trade Dependencies: Analyzing the Influence of the 2018 Mexican Government Transition on Economic Patterns using a Gravity Model and Sector-Specific Indicators'
+summary: "Master's in Computational Social Science Thesis"
 authors:
   - 2023
-date: '2023-03-01T00:00:00Z'
+date: '2023-07-01T00:00:00Z'
 
 tags:
-  - Machine Learning
-  - Prediction
-  - Data Analysis
-
+  - Gravity Model
+  - Data Science
+  - Indicators
+  - Trade Dynamics
+  - Mexico Trade
 
 
 url_project: ''
-url_pdf: 'projects/pred_unemp/4. Predicting_Machine_Learning.pdf'
-url_dataset: 'https://www.bls.gov/cps/data-overview.htm'
-url_slides: 'projects/pred_unemp/Presentation Survey.pdf'
-url_video: ''
+url_pdf: 'projects/BACII/tfm_edgar_chicurel.pdf'
+url_dataset: 'projects/BACII/Data_with_indicators.zip'
+url_slides: 'projects/BACII/TFM_Presentation.pdf'
+url_code: 'https://github.com/chicurel/Trade_Indicators_BACII'
 
 ---
 
-Unemployment is a social scourge that imposes costs on society far beyond financial ones. Unemployed individuals not only lose income but also face challenges to their physical and mental health, which translates into negative effects on families, relationships and communities. Therefore, we aim at delineating a strategy to understand which features of individuals (or their households) are most closely associated with the probability of being unemployed. Eventually, we want to be able to predict individual unemployment status using modelling techniques. For that, we will use data from the [Current Population Survey (CPS)](https://www.bls.gov/cps/data-overview.htm) monthly survey, which provides information about key demographic and labor
-force characteristics. After performing the necessary transformations and feature selection techniques, we will perform a brief descriptive exploratory analysis. We then use three different types of models - Lasso, Logistic and Random Forest - to select relevant variables for predicting unemployment. Using data from the survey in 2018, we will evaluate the performance of our model and draw a series of final conclusions concerning model choice.
+his research paper investigates Mexico's relationship of political shifts and trade dynamics, focusing on the period of Morena's governance from 2018 until the present. By employing a Gravity Model and sector-specific trade indicators, this study tries to explore this relationship comprehensively. Utilizing a dataset of 200 million observations on trade flows between Mexico and other countries spanning from 1995 to 2021, the Gravity Model findings reveal a decrease in bilateral trade during Morena's governance, emphasizing the substantial influence of political factors on trade dynamics. Moreover, sector-specific analyses reveal distinct trade patterns across various sectors of the economy. These results suggest that political changes, in conjunction with economic and sectoral factors, significantly shape trade trends. However, the complex interplay of these variables underscores the need for comprehensive analysis when informing trade policy and economic development. This study contributes valuable insights to the understanding of Mexico’s trade dynamics and the potential impacts of political transitions on international trade relationships.
 
