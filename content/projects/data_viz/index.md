@@ -13,7 +13,7 @@ tags:
 
 
 url_project: 'https://csslab.uc3m.es/dataviz/'
-url_pdf: 'projects/data_viz/3. Data_visualization.pdf'
+url_pdf: 'https://csslab.uc3m.es/dataviz/projects/2022/100376720/'
 url_dataset: ''
 url_slides: 'projects/data_viz/Data_viz.pdf'
 url_video: ''
