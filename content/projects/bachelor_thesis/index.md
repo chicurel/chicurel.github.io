@@ -1,6 +1,6 @@
 ---
 title: 'Relationship between Profitability and Sustainability through a Difference-in-differences Approach using The Paris Agreement as a Shock to ESG Ratings'
-summary: 'Economics Bachelor Thesis'
+summary: 'Economics Bachelor's Thesis'
 authors:
   - 2022
 date: '2022-06-01T00:00:00Z'
