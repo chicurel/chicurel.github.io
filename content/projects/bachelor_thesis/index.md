@@ -15,8 +15,8 @@ external_link: ''
 
 url_project: ''
 url_pdf: 'projects/bachelor_thesis/2. Bachelor_thesis.pdf'
-url_dataset: ''
-url_slides: ''
+url_dataset: 'projects/bachelor_thesis/bachelor_data.csv'
+url_slides: 'projects/bachelor_thesis/bachelor_slides.pdf'
 url_video: ''
 
 ---
