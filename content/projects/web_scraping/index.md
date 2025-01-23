@@ -5,6 +5,11 @@ authors:
   - 2023
 date: '2023-12-01T00:00:00Z'
 
+tags:
+  - Web Scraping
+  - Selenium
+  - Xpath
+
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
