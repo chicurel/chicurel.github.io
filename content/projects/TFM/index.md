@@ -13,7 +13,6 @@ tags:
   - Mexico Trade
 
 
-url_project: ''
 url_pdf: 'projects/TFM/tfm_edgar_chicurel.pdf'
 url_dataset: 'projects/TFM/MEX_full.csv'
 url_slides: 'projects/TFM/TFM_Presentation.pdf'
