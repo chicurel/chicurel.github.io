@@ -12,10 +12,10 @@ tags:
   - Trade Dynamics
   - Mexico Trade
 
-
-url_pdf: 'projects/TFM/tfm_edgar_chicurel.pdf'
-url_dataset: 'projects/TFM/MEX_full.csv'
-url_slides: 'projects/TFM/TFM_Presentation.pdf'
+url_project: ''
+url_pdf: 'projects/tfm/tfm_edgar_chicurel.pdf'
+url_dataset: 'projects/tfm/mex_full.csv'
+url_slides: 'projects/tfm/tfm_presentation.pdf'
 url_code: 'https://github.com/chicurel/Trade_Indicators_BACII'
 
 ---
