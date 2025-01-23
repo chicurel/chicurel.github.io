@@ -9,10 +9,10 @@ date: '2023-12-01T00:00:00Z'
 external_link: ''
 
 url_project: ''
-url_pdf: ''
+url_pdf: 'web_scraping/1. Web_scrapping_code.pdf'
 url_dataset: ''
 url_slides: ''
-url_video: ''
+url_video: 'web_scraping/Selenium_reefbase_in.mp4'
 
 ---
 
