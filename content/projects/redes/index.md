@@ -7,7 +7,9 @@ date: '2023-04-01T00:00:00Z'
 
 tags:
   - Network analysis
-  - Graph analysis
+  - Community Detection
+  - Modularity
+  - Nodes
 
 
 
