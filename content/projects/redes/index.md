@@ -1,6 +1,6 @@
 ---
-title: 'The U.S. government agency websites networks: Iowa'
-summary: "Website traffic and connectivity between different government sites in Iowa."
+title: 'Network Analysis of US Government Websites: Iowa'
+summary: "Networl Analysis of the website traffic and connectivity between different government sites in Iowa."
 authors:
   - 2023
 date: '2023-04-01T00:00:00Z'
