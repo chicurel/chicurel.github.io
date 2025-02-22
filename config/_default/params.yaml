@@ -54,8 +54,7 @@ footer:
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
-power_ups:
-  hide_published_with: true
+
 
 # Localization
 
