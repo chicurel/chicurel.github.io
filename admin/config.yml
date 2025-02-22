@@ -830,3 +830,5 @@ collections:
   name: pages
 media_folder: assets/media
 public_folder: /media
+power_ups:
+  hide_published_with: true
