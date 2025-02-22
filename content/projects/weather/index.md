@@ -16,7 +16,7 @@ tags:
 
 url_project: ''
 url_pdf: 'projects/weather/weather_ml.html'
-url_dataset: 'projects/weather_ml/weather_energy_datasets.zip'
+url_dataset: 'projects/weather/weather_energy_datasets.zip'
 url_slides: ''
 url_code: ''
 
