@@ -1,9 +1,9 @@
 ---
 title: 'IBM Attrition Rate'
-summary: "Understanding the IBM employee attrition rate using machine learning techniques."
+summary: "Understanding the IBM employee attrition rate using Machine Learning techniques."
 authors:
-  - 2023
-date: '2023-03-01T00:00:00Z'
+  - 2024
+date: '2024-08-01T00:00:00Z'
 
 tags:
   - Machine Learning

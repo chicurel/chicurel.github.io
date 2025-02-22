@@ -1,9 +1,9 @@
 ---
 title: 'Weather for Energy'
-summary: "Exploring the relationship between weather patterns and energy consumption in different countries"
+summary: "This study utilized PCA and K-means clustering to identify four distinct country clusters based on climate and energy consumption, revealing temperature as a key differentiator—particularly for cold, high-energy northern nations—while suggesting that finer clustering could shift focus toward socioeconomic factors like GDP."
 authors:
-  - 2023
-date: '2023-02-01T00:00:00Z'
+  - 2025
+date: '2025-01-01T00:00:00Z'
 
 tags:
   - Machine Learning

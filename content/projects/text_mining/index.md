@@ -2,8 +2,8 @@
 title: 'Unveiling Economic Thought: A Textual Analysis of Keynes, Smith, and Ricardo'
 summary: "This study uses text mining techniques to reveal distinct thematic and lexical differences in the economic writings of Keynes, Smith, and Ricardo, highlighting their unique contributions to economic theory through word frequencies, N-grams, and correlations."
 authors:
-  - 2023
-date: '2023-05-01T00:00:00Z'
+  - 2024
+date: '2024-06-01T00:00:00Z'
 
 tags:
   - Text Mining
