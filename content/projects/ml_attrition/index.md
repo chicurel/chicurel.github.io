@@ -15,7 +15,7 @@ tags:
 
 
 url_project: ''
-url_pdf: 'projects/ml_attrition/ml_attrition.htm'
+url_html: 'projects/ml_attrition/ml_attrition.htm'
 url_dataset: 'projects/ml_attrition/ml_attrition_data.csv'
 url_slides: ''
 url_code: ''
