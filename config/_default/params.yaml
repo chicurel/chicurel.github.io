@@ -55,9 +55,9 @@ footer:
       share_alike: false
       allow_commercial: false
 power_ups:
-  hide_published_with: false
-  i_am_a_sponsor: false
-  
+  hide_published_with: true
+  i_am_a_sponsor: true
+
 # Localization
 
 locale:
