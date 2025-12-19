@@ -36,6 +36,8 @@ interests:
   - R
   - Python
   - Data analysis
+  - Machine learning
+  - LLMs
 
 # Education to show in About widget
 education:
