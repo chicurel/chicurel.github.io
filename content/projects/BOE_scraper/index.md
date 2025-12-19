@@ -9,7 +9,7 @@ tags:
   - Web Scraping
   - Data Analysis
   - Data Visualization
-  - Mahcine Learning
+  - Machine Learning
 
 
 
