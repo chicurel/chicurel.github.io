@@ -40,6 +40,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Statistics for Data Science
+      institution: Universidad Carlos III
+      year: 2025
     - course: MSc in Computational Social Science
       institution: Universidad Carlos III
       year: 2023
@@ -79,7 +82,7 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website. I am currently a Research Assistant working at [CSIC - IPP](https://www.ipp.csic.es/). 
+Welcome to my website. I’m an economist and data scientist with a strong background in econometrics, macroeconomic analysis and data science, now pursuing a [PhD in Statistics for Data Science](https://www.uc3m.es/ss/Satellite/Doctorado/en/Detalle/Estudio_C/1371364859211/1371210298470/Statistics_for_Data_Science) working at [CSIC - IPP](https://www.ipp.csic.es/). 
 
 I studied Economics at [Universidad Carlos III](https://www.uc3m.es/bachelor-degree/economics?d=Desktop) where I specialized in Econometrics and Macroeconomics. I also hold a master's degree in [Computational Social Sciences](https://www.uc3m.es/master/computational-social-science).
 
