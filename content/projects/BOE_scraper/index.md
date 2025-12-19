@@ -14,6 +14,7 @@ tags:
 
 
 url_project: 'https://github.com/chicurel/BOE-Gazeta-Scrapers'
+url_code: 'https://github.com/chicurel/BOE-Gazeta-Scrapers/blob/main/boe_scraper.R'
 url_pdf: ''
 url_dataset: ''
 url_slides: ''
