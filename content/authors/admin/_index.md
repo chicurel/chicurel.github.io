@@ -73,11 +73,11 @@ social:
     label: Github
   - icon: linkedin
     icon_pack: fab
-    url: https://linkedin.com/in/edgar-chicurel-flores
+    link: https://linkedin.com/in/edgar-chicurel-flores
     label: Linkedin
   - icon: orcid
     icon_pack: fab
-    url: https://orcid.org/0009-0007-5589-7803
+    link: https://orcid.org/0009-0007-5589-7803
     label: Orcid
 
   # Link to a PDF of your resume/CV.
