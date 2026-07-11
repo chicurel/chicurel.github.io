@@ -73,8 +73,12 @@ social:
     label: Github
   - icon: linkedin
     icon_pack: fab
-    url: https://www.linkedin.com/in/edgar-chicurel-flores/
+    url: https://linkedin.com/in/edgar-chicurel-flores
     label: Linkedin
+  - icon: orcid
+    icon_pack: fab
+    url: https://orcid.org/0009-0007-5589-7803
+    label: Orcid
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
