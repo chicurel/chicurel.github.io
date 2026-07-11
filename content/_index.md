@@ -54,7 +54,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Projects
+      title: Projects & Publications
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
