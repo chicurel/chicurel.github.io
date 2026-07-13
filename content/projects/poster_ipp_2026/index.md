@@ -16,7 +16,7 @@ tags:
 
 url_project: 'https://digital.csic.es/handle/10261/438899'
 url_code: ''
-url_pdf: 'projects/poster_ipp_2026/poster_2026_ipp.pdf'
+url_pdf: 'projects/poster_ipp_2026/ipp_poster_2026.pdf'
 url_dataset: ''
 url_slides: ''
 url_video: ''
